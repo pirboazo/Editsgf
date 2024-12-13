@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[da][pa][bb][db][pb][rb][bc][cc][dc][pc][qc][rc][sc][bd][rd][ae][se][ao][so][bp][rp][bq][cq][dq][pq][qq][rq][br][dr][pr]AB[ba][ca][qa][ra][eb][gb][mb][ob][ec][oc][cd][dd][ed][od][pd][qd][be][re][cf][qf][bg][rg][bm][rm][cn][qn][bo][ro][cp][dp][ep][op][pp][qp][eq][oq][er][gr][mr][or][bs]LB[fg:2][mg:1][fm:3][mm:4]C[Forme en L +1 sur la grande branche du L et hane. Cela ne renforce pas vraiment blanc mais complique un peu la chose et enlève des options pour tuer à noir.
+
+Noir joue.]
+(;B[sa]C[Réduit blanc à la forme en 4 pliés dans le coin.])
+(;B[ad]
+;W[ac]
+;B[aa]C[Réduit blanc à la forme en 4 pliés dans le coin.])
+(;B[cs]
+;W[ds]
+;B[ap]
+;W[aq]
+;B[as]C[Réduit blanc à la forme en 4 pliés dans le coin])
+(;B[ds]C[Erreur, ko.]
+;W[cs]
+;B[cr])
+(;B[rs]C[D'abord point vital...]
+;W[rr]
+;B[qs]C[encore 1 point vital]
+;W[ps]
+;B[sp]
+;W[sq]
+;B[ss]C[Réduit blanc à la forme en 4 courbés dans le coin])
+(;B[ps]C[Le hane fonctionne aussi car il y a la pierre noire en N2]
+;W[rs]
+;B[sr]
+;W[qs]
+;B[rr]C[Ce groupe blanc a plus de liberté que le précédent.]))

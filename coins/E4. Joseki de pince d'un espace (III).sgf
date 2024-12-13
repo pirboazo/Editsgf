@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ab][bb][eb][fb][nb][ob][qb][rb][sb][cc][dc][fc][nc][pc][qc][cq][dq][fq][nq][pq][qq][ar][br][fr][nr][rr][sr][fs]AB[da][pa][ra][gb][mb][bc][hc][lc][rc][bd][cd][dd][ed][od][pd][qd][rd][ge][me][go][mo][bp][cp][dp][ep][op][pp][qp][rp][bq][hq][lq][rq][gr][mr][ds]TR[gc][mc][fd][nd][fp][np][gq][mq]C[Blanc a 2 libertés extérieures, comment cela affecte-il le statut de ces groupes ?
+
+Noir joue.]
+(;B[na]
+;W[oa]
+;AB[qa]C[Noir ne peut plus réduire blanc a un manque de liberté. le seki est le meilleur résultat qu'il peut obtenir.])
+(;B[qa]
+;W[na]C[Seki aussi mais en conservant le sente.])
+(;B[ba]
+;W[cb]
+;B[ca]
+;W[fa]C[seki en sente.])
+(;B[cb]C[Ici la coupe est un mauvais coup.]
+;W[ba]
+;B[fa]
+;W[ea]
+;B[ec]
+;W[db]C[il n'y a plus de manque de libertés.])
+(;B[fa]C[Commencer par le hane puis la coupe ne fonctionne pas non plus.]
+;W[ea]
+;B[cb]
+;W[db])
+(;B[eq]C[Blanc F1 en réponse au placement noir en D1 est une erreur.]
+;W[er]
+;B[cr]
+;W[dr]
+;B[bs]
+;W[cs]C[ko pour la vie.])
+(;B[cr]C[la coupe en C2 est une erreur.]
+;W[dr]
+;B[bs]
+;W[es]
+;B[cs]
+;W[eq]C[Blanc vit.])
+(;B[ps]
+;W[or]
+;B[rs]
+;W[qr]
+;B[qs]
+;W[ns]))

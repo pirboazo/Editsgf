@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AB[pd][pj]PL[W]
+;W[qc]
+;B[qd]
+;W[pc]
+;B[oc]
+;W[ob]
+;B[nc]
+;W[nb]
+;B[mc]C[L'invasion au san-san sous le hoshi est probablement le plus connu des josekis.
+
+Les problèmes qui suivent en proviennent.]
+(;W[mb]C[Ce coup est une innovation apportée par l'IA]
+;B[lc]C[Noir étend et blanc prend le sente])
+(;W[rd]
+;B[re]
+;W[rc]
+;B[qf]C[L'IA estime cela favorable à noir.])
+(;W[dp]C[Si blanc fait tenuki]
+;B[mb]C[ceci est sente et est un gros coup de jose.]
+(;W[rd]C[blanc doit vivre]
+;B[re]
+;W[rc]
+;B[qf])
+(;W[dd]C[Si blanc fait encore tenuki...]
+(;B[rd]C[... noir tue])
+(;B[rc]C[Erreur]
+;W[rb]
+;B[rd]
+;W[sb]
+;B[qa]
+;W[ra]
+;B[na]
+;W[qb]
+;B[pa]
+;W[pb]))))

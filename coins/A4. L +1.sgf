@@ -1,0 +1,60 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[cb][db][ob][pb][cc][pc][qc][rc][bd][cd][bo][qo][ro][bp][rp][cq][qq][cr][pr][qr]AB[eb][nb][dc][fc][nc][oc][dd][pd][qd][rd][be][ce][bg][qg][om][bn][cn][pn][qn][rn][co][so][dp][pp][dq][nq][pq][dr][fr][or]LB[ra:A][ab:B][gg:2][mg:1][gm:3][mm:4][ar:C][sr:D]C[La forme en L +1 vit si blanc joue une pierre en A, B, C et D.
+
+Si noir a le sente, la meilleure façon de tuer est de réduire la forme à un simple L avec un hane du bon côté (celui du +1).
+
+Blanc n'a pas de pierre sur le point vital. donc généralement, d'abord hane, ensuite point vital.
+
+Noir de joue.]
+(;B[oa]C[D'abord hane, blanc est réduit à un simple L...]
+(;W[rb]
+;B[qa]C[... puis point vital.]
+;W[pa]
+;B[sc]
+;W[sb]
+;B[ra])
+(;W[ra]C[Si blanc prend un point vital...]
+;B[sb]C[...noir prend l'autre.]
+;W[sc]
+;B[rb]
+;W[pa]
+;B[qb]))
+(;B[da]C[D'abord hane, blanc est réduit à un simple L]
+;W[bb]
+;B[ac]C[... puis point vital.]
+;W[ad]
+;B[ca]
+;W[ba]
+;B[ab]
+;W[ea]
+;B[da])
+(;B[ao]C[D'abord hane...]
+(;W[ap]
+;B[cs]C[ici encore hane]
+;W[bs]
+;B[ar]C[... puis point vital.])
+(;W[cs]
+;B[cp]
+;W[aq]
+;B[br]C[point vital]
+;W[bs]
+;B[ar]))
+(;B[ps]C[D'abord hane...]
+(;W[rr]
+;B[sq]C[... puis point vital]
+;W[sp]
+(;B[qs]
+;W[rs]
+;B[sr]
+;W[os]
+;B[ps])
+(;B[sr]
+;W[qs]
+;B[ss]C[Cette séquence tue ausssi blanc mais lui laisse plus de libertés.]))
+(;W[sr]C[Si blanc prend un point vital...]
+;B[rs]C[... noir prend l'autre.]
+;W[qs]
+;B[rr]
+;W[sp]
+;B[rq])))

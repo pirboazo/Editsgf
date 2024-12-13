@@ -1,0 +1,33 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ca][da][pa][qa][ab][eb][fb][nb][ob][rb][sb][bc][cc][dc][pc][qc][rc][bq][cq][dq][pq][qq][rq][ar][er][fr][nr][or][ds][ps]AB[ba][fa][ma][na][ra][gb][mb][ac][ec][fc][gc][mc][nc][oc][sc][bd][cd][dd][pd][qd][rd][bp][cp][dp][pp][qp][rp][aq][eq][fq][gq][mq][nq][oq][gr][mr][fs][ns]LB[gg:2][mg:1][gm:3][mm:4][rp:A][rq:B]C[A la descente en A, blanc répond B.
+
+Noir joue.]
+(;B[pb]
+;W[qb]
+;B[oa])
+(;B[ga]
+(;W[ea]
+;B[cb])
+(;W[bb]
+;B[db]
+;W[cb]
+;B[ea]))
+(;B[bs]
+(;W[cr]
+;B[gs]LB[cs:A][es:B]C[A et B sont miai])
+(;W[br]
+;B[gs]
+;W[dr]
+;B[cs])
+(;W[cs]
+;B[gs]
+;W[br]
+;B[dr]))
+(;B[sq]
+;W[sr]
+;B[rs]
+;W[qs]
+;B[ms]
+;W[os]
+;B[qr]))

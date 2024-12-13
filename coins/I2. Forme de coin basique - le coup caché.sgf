@@ -1,0 +1,51 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[da][pa][qa][ab][bb][eb][fb][nb][ob][rb][sb][bc][cc][dc][pc][qc][rc][bq][cq][dq][pq][qq][br][er][fr][nr][or][rr][ds][ps]AB[fa][ga][ma][na][ra][gb][mb][ac][ec][fc][gc][mc][nc][oc][sc][bd][cd][dd][pd][qd][rd][bp][cp][dp][pp][qp][rp][eq][fq][gq][mq][nq][oq][gr][mr][fs][gs][ns]LB[gg:2][mg:1][gm:3][mm:4][rp:A][rr:B]C[A la descente en A, blanc répond le kosumi B.
+
+Les problèmes 1 à 3 vous mênent pas à pas à la bonne séquence.
+
+Au problème 4, le coup est caché.
+
+Noir joue]
+(;B[pb]
+;W[qb]
+;B[oa])
+(;B[ba]
+;W[ca]
+;B[db]
+;W[aa]
+;B[ea])
+(;B[db]C[Erreur]
+;W[cb]
+;B[ea]
+;W[ba]
+;B[db]
+;W[eb])
+(;B[aq]
+;W[ar]
+;B[bs]
+;W[cs]
+;B[dr])
+(;B[bs]C[Erreur]
+;W[cs]
+;B[dr]
+;W[as]LB[aq:B][es:A]C[A et B sont miai])
+(;B[ms]C[Le coup caché]
+(;W[rq]
+;B[sq]
+;W[sr]
+;B[rs]
+;W[qs]
+;B[pr])
+(;W[sr]
+;B[rs]
+;W[qs]
+;B[pr]
+;W[qr]
+;B[os]))
+(;B[sr]C[Ceci a l'air prometeur...]
+;W[qr]
+;B[rs]
+;W[sq]
+;B[rq]
+;W[ss]))

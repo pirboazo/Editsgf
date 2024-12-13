@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ea][oa][db][pb][bc][cc][dc][pc][qc][rc][bd][rd][ae][se][ao][so][bp][rp][bq][cq][dq][pq][qq][rq][dr][pr][es][os]AB[bb][eb][mb][ob][ec][oc][cd][dd][ed][od][pd][qd][sd][be][re][bf][rf][bn][rn][bo][ro][cp][dp][ep][op][pp][qp][eq][oq][er][gr][mr][or][cs][rs]LB[gg:2][mg:1][gm:3][mm:4]C[Noir essaie 4 attaques différentes sur le L +1 et 2 hane qui est à peut près vivant.
+
+Blanc joue.]PL[W]
+(;W[ra]
+;B[sb]
+;W[rb])
+(;W[rb]C[Erreur, blanc termine avec une forme en 4 pliés dans le coin (bent four) qui en règle japonaise est morte.
+
+Voire fichier 01.]
+;B[qa]
+;W[pa]
+;B[ra]
+;W[sc]
+;B[sa])
+(;W[ab]C[C'est le point vital pour sécuriser le groupe.]
+;B[ba]
+;W[ad]
+;B[fa]
+;W[ca])
+(;W[ba]C[Hasamitsuke est une erreur ici, blanc doit affronter un ko pour vivre.]
+;B[ca]
+;W[da]
+;B[aa]
+;W[cb])
+(;W[ds]C[Ceci est la plus dangereuse attaque de noir et blanc D1 est forcé]
+;B[br]
+;W[ar]
+;B[ap]
+;W[bs]C[Horikomi]
+;B[as]
+;W[cr]
+;B[aq]
+;W[ar]
+;B[aq]
+;W[ap]C[Blanc vit en double ko.])
+(;W[sp]C[Créer un grand espace est une bonne idée.]
+;B[ns]
+;W[ps]
+;B[rr]
+;W[sr]
+(;B[ss]C[C'est un ko de 1'000 ans])
+(;B[qr]C[C'est seki.]))
+(;W[rr]
+;B[qs]
+;W[ss]
+;B[sr]
+;W[ps]
+;B[sp]
+;W[sq]
+;B[ns]C[Ko pour la vie, mais si noir connecte en T1. C'est une forme en 4 pliés dans le coin. 
+
+Voire fichier 01
+
+Voire fichier A5, problème 4.]))

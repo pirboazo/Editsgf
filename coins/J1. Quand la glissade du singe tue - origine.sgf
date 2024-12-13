@@ -1,0 +1,18 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[nc]AB[lc][pd][pj]TR[nc]C[invasion de blanc]
+;B[nd]
+;W[od]
+;B[oe]
+;W[oc]
+;B[md]
+;W[pc]
+;B[qd]
+;W[qc]
+;B[rd]
+;W[rc]
+;B[nf]C[Blanc peut faire tenuki]
+;W[dp]
+;B[mb]C[Mais quand noir joue N 18, il doit répondre]
+(;W[nb])
+(;W[dd]C[S'il fait encore tenuki, noir tue le coin]))

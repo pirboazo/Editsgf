@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ba][db][pb][rb][bc][cc][dc][pc][qc][rc][bq][cq][dq][pq][qq][rq][sq][dr][pr][ds]AB[eb][ob][ec][oc][bd][cd][dd][ed][od][pd][qd][rd][bp][cp][dp][ep][op][pp][qp][rp][eq][oq][er][or]LB[gg:2][mg:1][gm:3][mm:4]TR[ba][rb][sq][ds]C[Sans liberté extérieure ni de possibilité de sortir, la forme en L sans le +1 peut être tuée même si blanc ajoute une pierre (triangle).
+
+Elle a cependant beaucoup de liberté et peut être utile si il y a un semeai avec les pierres extérieures noires.
+
+Noir joue.
+
+Pour tous les problèmes, le No 1 est le plus facile et le No 4 est le plus difficile.
+
+Si blanc a une pierre de plus sur un point vital, noir joue d'abord l'autre point vital et ensuite le hane (problème 1- 2). Sinon d'abord le hane ensuite le placement au point vital (problème 3 - 4).]
+(;B[qa]C[D'abord le placement au point vital...]
+;W[pa]
+;B[sc]C[... puis le hane]
+;W[sb]
+;B[ra]
+;W[sd]
+;B[rf])
+(;B[sc]C[Commencer par le hane fonctionne aussi ici]
+;W[sb]
+;B[qa]
+;W[pa]
+;B[ra]
+;W[sd]
+;B[rf]C[Mais blanc finit avec plus de libertés.])
+(;B[ab]C[D'abord le point vital....]
+;W[ac]
+;B[da]C[... puis le hane]
+;W[ca]
+;B[bb]
+;W[ea]
+;B[gb])
+(;B[aq]C[D'abord le hane...]
+;W[ar]
+;B[bs]C[... puis le point vital.]
+;W[br]
+;B[cs])
+(;B[ps]C[D'abord le hane...]
+;W[qs]
+;B[rr]C[... puis le point vital.]
+;W[sr]
+;B[rs]))

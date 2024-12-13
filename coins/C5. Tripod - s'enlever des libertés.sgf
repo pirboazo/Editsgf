@@ -1,0 +1,36 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[sa][bb][cb][db][pb][qb][rb][ac][cc][qc][sc][bd][rd][bp][rp][aq][cq][qq][sq][cr][dr][qr]AB[ba][ra][eb][ob][dc][ec][oc][pc][cd][qd][be][ce][qe][re][se][bo][co][qo][ro][cp][qp][dq][eq][oq][pq][er]LB[gg:2][mg:1][gm:3][mm:4][or:B][pr:A]C[Eviter de s'enlever des libertés en pensant gagner 1-2 points et tout perdre.
+
+Pour vivre, blanc doit absolument éviter l'échange A pour B.
+
+Problème 1-3 blanc à échanger A pour B
+
+Noir joue.]
+(;B[sd]
+(;W[rc]
+;B[sb]C[Ko pour la vie, blanc ne peut bloquer en R19.])
+(;W[qa]
+;B[rc]C[Ko encore.]))
+(;B[ae]C[Le seul coup qui attaque.]
+(;W[ad]C[La meilleure réponse...]
+;B[ab]
+;W[aa]C[... car blanc prend le ko en premier.])
+(;W[aa]C[Si blanc joue le horikomie d'abord]
+;B[ad]
+;W[bc]
+;B[ab]C[C'est noir qui prend le ko en premier et blanc ne peut plus jouer C19]))
+(;B[bs]C[Noir propose un ko...]
+;W[br]
+;B[ao]
+;W[ap]
+;B[ar]
+;W[as]C[.... que blanc prend en premier])
+(;B[rs]
+;W[rr]
+;B[so]
+;W[ss]C[Horikomi]
+;B[sp]
+;W[rq]
+;B[sr]
+;W[qs]C[Sans l'échange A contre B noir ne peut plus forcer un ko et blanc est vivant. grace à l'horikomi.]))

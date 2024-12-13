@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ab][bb][eb][ob][rb][sb][cc][dc][ec][oc][pc][qc][cq][dq][eq][oq][pq][qq][ar][br][er][or][rr][sr]AB[ca][oa][fb][nb][bc][fc][nc][rc][bd][cd][dd][ed][fd][nd][od][pd][qd][rd][bp][cp][dp][ep][fp][np][op][pp][qp][rp][bq][fq][nq][rq][fr][nr][bs]LB[gg:2][mg:1][gm:3][mm:4]TR[ca][oa][bs]C[Noir manque son attaque (triangle).
+
+Problème 1 - 3 blanc joue. Majuscule-Contrôle-Clic pour changer la couleur de la pierre.
+
+Problème 4 noir joue.]PL[W]
+(;W[pa]
+;B[qb]
+;W[na]
+;B[ma]
+;W[qa]C[Blanc n'est pas en manque de liberté et vit.])
+(;W[qa]C[Pauvre coup]
+(;B[pa])
+(;B[pb]C[Mais si noir fait aussi erreur...]
+;W[qb]))
+(;W[da]C[Le coup diagonal au contact donne la vie.]
+;B[cb]
+;W[ba])
+(;W[cb]C[Erreur, seki.]
+(;B[da]
+;W[ea]
+;B[ba])
+(;B[ea]C[Bien sûr si noir fait aussi une erreur...]
+;W[da]
+;B[db]
+;W[ba]C[Il a peut-être espéré un ko mais cela n'en est pas un.]))
+(;W[ba]C[Ce coup donne aussi la vie avec 4 points comme dans la solution précédente.]
+;B[ea]
+;W[da]C[horikomi]
+;B[db]
+;W[cb])
+(;W[ea]C[Pauvre coup]
+;B[cb]
+;W[ba]
+;B[ac])
+(;W[cr]C[Coup intelligent]
+(;B[ds]
+;W[es]
+;B[cs]C[Seki, blanc perd 4 points mais a le sente et F1 ce qui est plus que 4 points.])
+(;B[jj]C[Si noir fait tenuki...]
+;W[fs]C[...blanc fait un hane et récupère 6 points dans le coin.]))
+(;W[ds]C[Si blanc joue le coup qui le sauve]
+;B[cr]
+;W[cs]C[Blanc vit en gote et noir peut jouer le coup F1 qui est aussi sente.])
+(;B[ps]
+;W[os]
+;B[qr]))

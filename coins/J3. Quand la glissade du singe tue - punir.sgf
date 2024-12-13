@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[da][pa][sb][bc][cc][dc][ec][fc][nc][oc][pc][qc][rc][ed][od][ep][op][bq][cq][dq][eq][fq][nq][oq][pq][qq][rq]AB[ea][oa][ra][db][gb][mb][hc][lc][bd][cd][dd][fd][gd][md][nd][pd][qd][rd][ee][oe][df][pf][dn][pn][eo][oo][bp][cp][dp][fp][gp][mp][np][pp][qp][rp][hq][lq][gr][mr][nr][ds]LB[gg:2][mg:1][gm:3][mm:4]TR[ra][db][nr][ds]C[Tous les coups noirs (triangle) sont des erreurs.
+
+Blanc joue. Comment punit-il ?]PL[W]
+(;W[na]
+;B[nb]
+;W[ob]
+;B[qb]
+;W[rb]
+;B[qa]C[blanc obtient un seki])
+(;W[fa]
+;B[ca]
+;W[fb]
+;B[bb]
+;W[ab]
+;B[cb]
+;W[eb]
+;B[gc]
+;W[ba]
+;B[aa]
+;W[ac]C[double ko, blanc est vivant.
+
+Cela illustre l'importance de F 19mpour les 2 joueurs])
+(;W[cb]
+;B[ca]
+;W[fa]
+;B[fb]
+;W[eb]
+;B[ga]
+;W[ba]C[Cela fonctionne aussi mais donne moins de point])
+(;W[es]
+;B[er]
+(;W[fr]
+;B[fs]
+;W[dr]
+;B[bs]C[Ko])
+(;W[dr]C[erreur]
+;B[fr]
+;W[cs]
+;B[br]
+;W[ar]
+;B[bs]C[blanc est mort]))
+(;W[cs]C[erreur]
+;B[es]
+;W[dr]
+;B[br]
+;W[ar]
+;B[bs]
+;W[fs]
+;B[fr]
+;W[er]
+;B[es]C[blanc est mort])
+(;W[or]
+;B[rr]
+;W[sr]
+;B[qr]
+(;W[qs]
+(;B[rs]
+;W[ps]
+;B[sp]
+;W[sq]
+;B[ns]
+;W[os]C[seki en gote])
+(;B[ps]C[erreur]
+(;W[rs]
+;B[ss]
+;W[rs]
+;B[os]LB[mq:A]C[Avec la liberté en A, blanc n'est pas en manque de liberté]
+;W[pr])
+(;W[os]C[En coupant en P1, blanc répond à une erreur de noir par une erreur]
+;B[rs]C[et meurt.])))
+(;W[rs]C[si blanc manque le tesuji en R1]
+;B[qs]
+;W[os]C[c'est le ko de cent ans])))

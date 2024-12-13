@@ -1,0 +1,65 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[oa][ab][bb][eb][fb][nb][ob][rb][sb][cc][dc][fc][nc][pc][qc][cq][dq][fq][nq][pq][qq][ar][br][fr][nr][rr][sr][fs]AB[da][na][pa][gb][mb][bc][gc][mc][rc][bd][cd][dd][ed][fd][gd][md][nd][od][pd][qd][rd][bp][cp][dp][ep][fp][gp][mp][np][op][pp][qp][rp][bq][gq][mq][rq][gr][mr][ds]LB[gg:2][mg:1][gm:3][mm:4]C[Noir joue.]
+(;B[pb]
+;W[ma]
+;B[oc])
+(;B[oc]
+;W[ma]
+;B[pb])
+(;B[qb]C[Ceci est inférieur, les 6 pierres blanches conservent 2 libertés. Blanc peut faire tenuki et conserver une menace de ko en S19..]
+;W[ra])
+(;B[fa]
+;W[ea]
+;B[ec]
+;W[ga]
+;B[db])
+(;B[ba]C[Ceci permet à blanc de vivre en seki.]
+;W[cb]
+(;B[ca]
+;W[fa]
+;B[ec]
+;W[db])
+(;B[fa]C[et ceci permet à blanc de s'échapper.]
+;W[ea]
+;B[ec]
+;W[ga]
+;B[ca]
+;W[hb]))
+(;B[eq]
+;W[er]
+;B[dr])
+(;B[ps]C[Q1 est le point vital de cette forme]
+;W[or]
+;B[ns]
+;W[os]
+;B[pr]
+;W[ms]
+;B[oq])
+(;B[or]C[Erreur typique]
+;W[oq]
+;B[ns]
+(;W[ps]C[joli tesuji qui sauve blanc]
+;B[os]
+;W[pr]
+;B[ms]
+;W[qs])
+(;W[pr]C[si blanc se trompe à son tour, il donne une deuxième chance à noir de le tuer avec un ko]
+;B[ps]
+;W[os]C[ko pour la vie]))
+(;B[ns]C[le hane ne fonctionne pas]
+(;W[ps]
+;B[rs]
+(;W[or]
+;B[ms]
+;W[qr])
+(;W[qs]C[Erreur]
+;B[or]
+;W[pr]C[Blanc ne peut connecter en P3, il est en manque de liberté. Il vit mais perd 4 points.]
+;B[os]))
+(;W[or]C[à l'erreur de noir, blanc répond par une erreur]
+;B[ps]C[noir prend le point vital et on retrouve la forme morte]
+;W[os]
+;B[oq]
+;W[ms]
+;B[pr])))

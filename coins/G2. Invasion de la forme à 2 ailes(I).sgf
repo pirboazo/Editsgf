@@ -1,0 +1,57 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[db][eb][ob][pb][rb][bc][cc][dc][pc][qc][rc][cq][dq][pq][qq][dr][er][or][pr]AB[oa][fb][nb][ec][fc][nc][oc][bd][cd][dd][pd][qd][rd][cf][qf][cn][qn][cp][dp][pp][qp][eq][fq][nq][oq][rq][fr][nr]LB[gg:2][mg:1][gm:3][mm:4]C[L'invasion d'une formation noire à 2 ailes résulte à la forme en L.
+
+Problème 1-3, noir joue.
+
+Problème 4, blanc joue. Majuscule-Contrôle-Clic pour changer la couleur de la pierre.]PL[W]
+(;B[sc]C[Commencer par le hane fonctionne.]
+;W[sb]
+;B[qa]
+;W[pa]
+;B[ra])
+(;B[qa]C[Le placement au point vital aussi]
+;W[pa]
+;B[sc]
+;W[sb]
+;B[ra])
+(;B[ea]C[Le hane réduit blanc à une forme en L]
+(;W[bb]
+;B[ca]
+;W[da]
+;B[ac]
+;W[ab]
+;B[ba])
+(;W[ba]C[Si blanc occupe le point vital...]
+;B[ab]C[noir occupe l'autre]
+;W[ac]
+;B[bb]
+;W[da]
+;B[cb]))
+(;B[bp]C[D'abord descendre. Attention, ne pas jouer B3, voire problème 4]
+(;W[bq]
+;B[es]C[Réduit blanc à la forme en L]
+;W[ds]
+;B[aq]
+;W[ar]
+;B[bs])
+(;W[br]
+;B[cs]
+;W[bq]
+;B[aq]
+;W[ar]
+;B[bs]))
+(;B[br]C[Ceci fonctionne aussi, mais...]
+;W[bq]
+;B[bp]
+;W[ar]
+;B[bs]
+;W[es]
+;B[cs]C[... laisse plus de liberté à blanc.])
+(;W[rr]
+;B[rp]
+;W[sr]
+;B[qs]
+;W[rs]
+;B[os]
+;W[qr]C[Blanc vit.]))

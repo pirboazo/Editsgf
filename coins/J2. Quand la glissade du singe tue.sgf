@@ -1,0 +1,56 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[da][pa][eb][ob][rb][bc][cc][dc][ec][fc][nc][oc][pc][qc][rc][ed][od][ep][op][bq][cq][dq][eq][fq][nq][oq][pq][qq][rq][ds]AB[ea][fa][na][oa][gb][mb][qb][hc][lc][bd][cd][dd][fd][gd][md][nd][pd][qd][rd][ee][oe][df][pf][dn][pn][eo][oo][bp][cp][dp][fp][gp][mp][np][pp][qp][rp][hq][lq][gr][mr][es]LB[gg:2][mg:1][gm:3][mm:4]C[Noir joue]
+(;B[sc]
+;W[sb]
+;B[ra]
+;W[pb]
+;B[qa])
+(;B[ra]C[mauvaise lecture]
+;W[sc]
+;B[qa]
+;W[pb])
+(;B[cb]
+(;W[bb]
+;B[ac]
+;W[ab]
+;B[ba])
+(;W[ba]C[tentative désespérée]
+;B[ab]
+;W[ac]
+;B[bb]))
+(;B[ca]C[erreur]
+(;W[ba]
+;B[db]
+;W[cb]
+;B[da]
+;W[ab])
+(;W[db]C[mais si blanc se trompe aussi]
+;B[bb]))
+(;B[ba]C[Ce n'est pas le point vital]
+;W[cb]
+;B[ca]
+;W[bb]
+;B[db]C[ko])
+(;B[fs]
+(;W[er]
+;B[cr]
+;W[br]
+;B[aq]
+;W[ar]
+;B[bs])
+(;W[bs]
+;B[ar]
+;W[aq]
+;B[dr]
+;W[cr]
+;B[er]))
+(;B[os]
+;W[ps]
+;B[ns]
+;W[or]
+;B[qr]
+;W[rr]
+;B[sq]
+;W[sr]
+;B[rs]))

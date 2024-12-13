@@ -1,0 +1,40 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ea][oa][pa][bb][db][pb][rb][bc][cc][dc][pc][qc][rc][bd][rd][bp][rp][bq][cq][dq][pq][qq][rq][dr][pr][bs][es][os]AB[qa][eb][gb][mb][ob][ec][oc][ad][cd][dd][ed][od][pd][qd][sd][be][re][cf][qf][cn][qn][bo][ro][ap][cp][dp][ep][op][pp][qp][eq][oq][er][gr][mr][or]LB[gg:2][mg:1][gm:3][mm:4]C[Forme en L +1 sur la grande branche du L et hane sur la petite branche.
+
+Noir joue.
+
+Si il y a 2 moyens de tuer. Il faut choisir celui qui laisse le moins de liberté à blanc dans le cas ou il y a un semeai sur les pierres noires extérieures. ]
+(;B[sc]
+;W[sb]
+;B[ra]
+;W[se]
+;B[sd])
+(;B[ra]
+;W[sc]
+;B[sa]C[Ceci fonctionne aussi, mais laisse plus de liberté à blanc.])
+(;B[ca]
+;W[da]
+;B[ac]
+;W[ab]
+;B[ba]
+;W[ae]
+;B[ad]C[Horikoimi])
+(;B[ar]
+;W[aq]
+;B[ds]C[Horikomi]
+;W[cs]
+;B[br])
+(;B[sp]
+(;W[rr]
+;B[qs]
+;W[ps]
+;B[sq]
+;W[sr]
+;B[rs])
+(;W[rs]
+;B[sr]
+;W[sq]
+;B[ps]C[Horikomi]
+;W[qs]
+;B[rr])))

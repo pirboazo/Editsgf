@@ -1,0 +1,55 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[db][pb][bc][cc][dc][pc][qc][rc][bd][rd][ae][se][ao][so][bp][rp][bq][cq][dq][pq][qq][rq][dr][pr]AB[bb][eb][gb][mb][ob][ec][oc][cd][dd][ed][od][pd][qd][sd][be][re][cf][qf][bg][rg][bm][rm][cn][qn][bo][ro][cp][dp][ep][op][pp][qp][eq][oq][er][gr][mr][or][cs][ps]LB[gg:2][mg:1][gm:3][mm:4]TR[bb][sd][cs][ps]C[Forme en L +1 et 1 hane. Noir (triangle) manque le point vital.
+
+Blanc joue. Peut-il vivre ?]PL[W]
+(;W[ra]C[Blanc vit en jouant le point vital 1-2]
+;B[sb]
+;W[rb])
+(;W[ba]C[Hasamitsuke]
+;B[ca]
+(;W[da]
+;B[aa]
+;W[cb]C[Blanc vit s'il gagne le ko. ]
+(;B[ea])
+(;B[ad]C[Erreur.]
+;W[ab]C[Horikomi]
+;B[ac]
+;W[ab]
+;B[ac]
+;W[ad]
+;B[ea]
+;W[ba]C[Blanc vit en double ko.]))
+(;W[ab]C[Si blanc commence ainsi, c'est un ko direct qui lui est moins favorable.]
+;B[aa]
+;W[cb]
+;B[ac]
+;W[da]
+;B[ea]
+;W[ba]))
+(;W[ab]C[Erreur.]
+;B[ba]
+;W[da]
+;B[ad]C[blanc meurt.])
+(;W[ds]
+;B[br]
+;W[ar]
+;B[ap]
+;W[bs]C[Horikomi]
+;B[as]
+;W[cr]
+;B[aq]
+;W[ar]
+;B[aq]
+;W[ap]
+;B[an]C[Blanc vit en double ko.])
+(;W[qs]
+;B[rr]
+;W[sr]
+;B[rs]
+;W[os]
+;B[sp]C[Avec la pierre en N2 blanc ne peut sortir et est mort.])
+(;W[rs]
+;B[sr]
+;W[qs]
+;B[rr]C[Blanc est mort, mais a plus de liberté que précédemment.]))

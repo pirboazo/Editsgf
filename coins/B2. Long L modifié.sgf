@@ -1,0 +1,38 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[oa][ab][bb][eb][ob][rb][sb][cc][dc][ec][oc][pc][qc][cq][dq][eq][oq][pq][qq][er][or]AB[pa][fb][nb][bc][fc][nc][rc][bd][cd][dd][ed][fd][nd][od][pd][qd][rd][cp][dp][ep][fp][np][op][pp][qp][rp][fq][nq][fr][nr]LB[gg:2][mg:1][gm:3][mm:4]C[Forme en long L. Elle apparait fréquemment dans les parties.
+
+Problème 1 -3 noir joue
+
+Problème 4 blanc joue. Majuscule-Contrôle-Clic pour changer la couleur de la pierre.]PL[B]
+(;B[qb]C[Terminé, blanc est en manque de liberté.])
+(;B[ra]C[Erreur, seki]
+;W[qb]
+;B[qa])
+(;B[da]C[D'abord le placement...]
+;W[ea]
+;B[cb]C[Ensuite la coupe]
+;W[ca]
+;B[ba])
+(;B[bq]C[D'abord le hane...]
+;W[br]
+;B[bp]
+;W[ar]C[Même forme que dans le problème 2]
+;B[ds]
+;W[es]
+;B[cr])
+(;W[rq]
+;B[rr]
+;W[sr]
+;B[qr]
+;W[rs]
+;B[qs]
+;W[os]C[Ko de 1'000 ans])
+(;W[rr]
+;B[rq]
+;W[sr]C[Même forme que dans le problème 2, donc...]
+;B[ps]
+;W[os]
+;B[qr]
+;W[rs]
+;B[ns]))

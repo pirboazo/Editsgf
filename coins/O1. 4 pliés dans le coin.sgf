@@ -1,0 +1,29 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[da][pa][bb][cb][db][pb][rb][bc][pc][qc][rc][sc][ad][bd][ap][bp][bq][rq][sq][br][cr][dr][or][pr][qr][rr][ds][os]AB[aa][ba][ea][oa][qa][ra][sa][ab][eb][ob][cc][dc][ec][oc][cd][od][pd][qd][rd][sd][ae][be][ce][ao][bo][co][qo][cp][rp][sp][cq][dq][eq][nq][oq][pq][qq][ar][er][nr][bs][es][ns][qs][rs][ss]C[Toutes les formes possibles de 4 courbés dans le coin.
+
+Cela a l'air d'un seki, Mais comme blanc ne peut approcher et à aucune liberté extérieure, à la fin de la partie, quand toutes les menaces de kos sont joués, blanc est mort. Ceci en règles japoaises.
+
+Dans une partie, les coups suivants ne sont pas joués. Je les met pour la démonstration.]
+(;B[sb]
+;W[qb]
+;B[ra]
+;W[sa]
+;B[sb])
+(;B[ca]
+;W[ac]
+;B[ba]
+;W[aa]
+;B[ab])
+(;B[as]
+;W[]
+;B[cs]
+;W[aq]
+;B[bs]
+;W[as]
+;B[ar])
+(;B[sr]
+;W[ps]
+;B[rs]
+;W[ss]
+;B[sr]))

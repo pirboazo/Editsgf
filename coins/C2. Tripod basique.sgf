@@ -1,0 +1,37 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[aa][bb][cb][qb][rb][ac][cc][qc][rc][sc][bd][rd][bp][rp][aq][cq][qq][br][cr][qr]AB[ba][ra][sb][dc][ec][oc][pc][ad][cd][qd][sd][ae][be][ce][qe][re][se][ao][bo][co][qo][ro][cp][qp][dq][eq][oq][pq][bs]LB[fg:2][mg:1][fm:3][mm:4]C[Le tripod, c'est la forme du coin sud-est. Il est très résilient.
+
+Blanc joue.]PL[W]
+(;W[qa]C[Facile, noir ne peut connecter ses 2 pierres])
+(;W[bc]
+;B[ab]
+;W[ca]C[idem])
+(;W[as]C[Horikomi possible car D2 et D1 ne sont pas occupé par noir.]
+;B[ap]
+;W[bq]
+;B[ar]
+;W[cs])
+(;W[ap]C[C'est une erreur de blanc. noir peut commencer un ko]
+;B[ar])
+(;W[sq]C[Gueule du tigre (kaketsugi)]
+;B[rs]
+;W[rr]
+;B[so]
+;W[ss]C[Horikomi]
+;B[sp]
+;W[rq]
+;B[sr]
+;W[qs])
+(;W[pr]C[étendre d'abord ici est une erreur typique]
+;B[or]
+;W[sq]
+;B[rs]
+;W[rr]
+;B[so]
+(;W[sp]
+;B[sr]C[au lieu de vivre inconditionellement, blanc doit affronter un ko pour ne pas mourrir.])
+(;W[ss]
+;B[sp]
+;W[rq]
+;B[sr]C[Cela donne juste une pierre de plus à noir.])))

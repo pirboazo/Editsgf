@@ -1,0 +1,64 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[pa][cb][eb][ob][qb][bc][cc][dc][pc][qc][rc][cq][dq][pq][qq][cr][er][or][qr][ds]AB[ra][fb][hb][lb][nb][ec][fc][nc][oc][ad][cd][dd][pd][qd][sd][cf][qf][cn][qn][ap][cp][dp][pp][qp][eq][fq][nq][oq][fr][hr][lr][nr]LB[gg:2][mg:1][gm:3][mm:4]C[D'autres variations sur le kaketsugi blanc sur la 2ème ligne.
+
+Noir joue.]PL[B]
+(;B[na]C[Descendre est un coup intelligent.]
+;W[rd]
+;B[re]
+;W[oa]
+;B[qa])
+(;B[ba]C[Prendre le point vital d'abord est essentiel.]
+(;W[da]
+;B[fa]
+;W[bd]
+;B[be]
+;W[ca]
+;B[ea])
+(;W[ea]
+;B[ca]
+;W[bb]
+;B[fa])
+(;W[fa]
+(;B[da]
+;W[ea]
+;B[ca]
+;W[db]
+;B[ac]
+;W[ab]
+;B[bd])
+(;B[ga]C[répondre avec l'atari est une erreur]
+;W[da]
+;B[ea]C[blanc obtient un ko])))
+(;B[ea]C[Coup vulgaire...]
+;W[da]C[... qui donne un ko direct.])
+(;B[ar]C[La plus simple manière de tuer.]
+;W[br]
+;B[bs]
+;W[bp]
+;B[bo]
+;W[bq]
+;B[aq])
+(;B[bs]C[Prendre l'autre point 1-2 fonctionne aussi]
+;W[bq]
+;B[fs])
+(;B[br]C[Ceci donne un ko pour la vie]
+;W[bq]
+;B[aq]
+;W[ar]
+;B[as]
+;W[bs])
+(;B[sp]C[Comme présenté dans les précédents problèmes, le saut sur la première ligne est le tresuji pour tuer.]
+;W[rq]
+;B[rs]
+;W[ps]
+;B[ns])
+(;B[rp]C[Erreur, ceci donne à blanc un ko pour la vie. ]
+;W[ps]
+;B[rr]
+;W[rq]
+;B[sq]
+;W[sr]
+;B[ss]
+;W[rs]
+;B[qs]))

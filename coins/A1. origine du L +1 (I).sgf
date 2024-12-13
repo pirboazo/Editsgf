@@ -1,0 +1,27 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AB[nc][pd]PL[W]
+;W[qc]
+;B[qd]
+;W[pc]
+;B[oc]
+(;W[ob]C[Erreur.]
+;B[nb]
+;W[pb]
+(;B[rd]
+;W[rc]C[Forme en L +1 sur la petite branche du L.
+
+Noir a le sente pour tuer blanc.])
+(;B[rc]C[Erreur]
+;W[rb]
+;B[rd]
+;W[sb]
+;B[qa]
+;W[ra]
+;B[oa]
+;W[qb]C[Blanc vit.]))
+(;W[rd]
+;B[re]
+;W[rb]
+;B[sd]
+;W[sc]C[Blanc ferait mieux de tenter de vivre par ko. S'il gagne le ko, la perte est considérable pour noir qui occupait le coin avec 2 pierres.]))

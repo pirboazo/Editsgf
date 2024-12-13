@@ -1,0 +1,75 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[da][pa][eb][fb][nb][ob][rb][bc][cc][dc][pc][qc][rc][ad][sd][ap][sp][bq][cq][dq][pq][qq][rq][er][fr][nr][or][ds]AB[fa][ma][na][gb][mb][ac][ec][fc][gc][mc][nc][oc][sc][bd][cd][dd][pd][qd][rd][bf][rf][bn][rn][bp][cp][dp][pp][qp][rp][eq][fq][gq][mq][nq][oq][gr][mr][bs][fs]LB[gg:2][mg:1][gm:3][mm:4][rn:B][sp:A]C[Blanc a pu échanger le hane A contre B.
+
+Comment cela affecte-t-il son statut ?
+
+Problèmes 1 -3 blanc joue. Majuscule-Control-Clic pour changer la couleur de la pierre.
+
+Problème 4, noir joue.]PL[B]
+(;W[qa]
+;B[se]
+;W[sb]
+;B[oa]
+;W[pb])
+(;W[sb]C[erreur]
+;B[ra]
+;W[qa]
+;B[pb]
+;W[qb]
+;B[oa])
+(;W[bb]
+;B[ga]
+;W[ca]
+;B[ae]
+;W[ab])
+(;W[cb]C[Ceci fonctionne aussi mais...]
+;B[ab]
+;W[bb]
+;B[ae]
+;W[ba]C[mais avec seulement 2 points])
+(;W[ab]C[Le réflexe de capturer n'est pas bon...]
+;B[ba]
+;W[ca]
+;B[ga]
+;W[bb]
+;B[db]
+;W[aa]
+;B[ea])
+(;W[ba]C[mauvaise lecture]
+;B[cb]
+;W[bb]
+;B[ab]
+;W[aa]
+;B[ac])
+(;W[br]
+;B[gs]
+;W[cs]
+;B[dr]
+;W[as]
+;B[es]
+;W[aq])
+(;W[aq]C[Erreur]
+;B[br]
+;W[cr]
+;B[gs]LB[cs:A][es:B]C[A et B sont miai])
+(;B[ns]
+(;W[ps]
+;B[sq]
+;W[rr]C[tesuji]
+;B[ms]
+;W[qs]
+;B[so]
+;W[sr]
+;B[os]
+;W[pr])
+(;W[pr]C[erreur]
+;B[os]C[réduit blanc à une forme en L]
+;W[rr]
+;B[qs]
+;W[ps]
+;B[sq]
+;W[sr]
+;B[rs]
+;W[ms]
+;B[ns])))

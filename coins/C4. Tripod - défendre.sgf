@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[cb][qb][ac][cc][qc][sc][bd][rd][bp][rp][aq][cq][qq][sq][cr][qr]AB[bb][pb][dc][ec][oc][pc][cd][qd][be][ce][qe][re][ao][bo][co][qo][ro][cp][qp][dq][eq][oq][pq][rs]LB[gg:2][mg:1][gm:3][mm:4]TR[bb][pb][ao][rs]C[Noir essaie quelques attaques (triangle) contre le tripod blanc.
+
+Blanc joue. Majuscule-Controle-Clic pour changer la couleur de la pierre.]PL[W]
+(;W[rb]
+;B[se]
+;W[sd]C[La vie facile, la dolce vita, easy life.])
+(;W[ra]C[Ce n'est pas le point vital.]
+(;B[sb]C[Ceci l'est devenu.]
+;W[rb]
+;B[se]
+;W[sa]
+;B[sd])
+(;B[se]C[Erreur]
+;W[sb]
+;B[sd]
+;W[rc]))
+(;W[ba]C[Hane]
+;B[ab]
+;W[db]
+;B[eb]
+;W[da]C[Blanc vit])
+(;W[bs]C[Ici, c'est le point vital. et la seule manière de vivre.]
+(;B[dr]
+;W[ar]
+;B[ap]
+;W[bq])
+(;B[ar]
+(;W[br]
+;B[ap]
+;W[bq])
+(;W[dr]
+;B[er]
+;W[ds])))
+(;W[br]C[Ceci réduit l'espace vital....]
+;B[ap]
+;W[dr]
+;B[er]
+;W[as]
+;B[bq]C[et le résultat est un ko pour la vie.])
+(;W[rr]
+;B[so]
+;W[ss]C[Horikomi]
+;B[sp]
+;W[rq]
+;B[sr]
+;W[qs]))

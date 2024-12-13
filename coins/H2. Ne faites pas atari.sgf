@@ -1,0 +1,62 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[oa][ab][bb][db][eb][fb][nb][ob][pb][rb][sb][cc][qc][cq][qq][dr][er][fr][nr][or]AB[na][gb][mb][bc][dc][fc][gc][mc][nc][pc][rc][bd][dd][pd][rd][ce][qe][co][qo][dp][pp][dq][fq][gq][mq][nq][gr][mr]LB[gg:2][mg:1][gm:3][mm:4]C[Dans les problèmes de vie et de mort, commencer avec un atari est souvent une erreur.
+
+Noir joue.]
+(;B[qa]
+(;W[ra]
+;B[qb]
+;W[pa]
+;B[qb]C[horikomi])
+(;W[qb]
+;B[ra]))
+(;B[fa]
+;W[ea]
+;B[ca]
+;W[ba]
+;B[cb])
+(;B[ca]C[Commencer par le placement est une erreur typique]
+;W[ba]
+;B[cb]
+;W[da]
+;B[cb]
+;W[fa])
+(;B[bq]
+;W[br]
+(;B[bp]
+;W[ar]
+;B[fs]
+;W[es]
+;B[cs]
+;W[bs]
+;B[cr])
+(;B[cp]C[Mettre atari est une grosse erreur]
+;W[cr]
+;B[bp]
+;W[ar]
+;B[fs]
+;W[es]C[Blanv vit]))
+(;B[br]C[Ceci semble être le point vital, mais...]
+;W[bq]
+;B[cr]
+(;W[bs]
+;B[cs]
+;W[ar]
+;B[as]
+;W[aq]C[... blanc vit])
+(;W[ar]C[Le hane ne fonctionne pas]
+;B[bs]
+;W[cs]
+;B[ds]
+;W[es]))
+(;B[pq]
+;W[pr]
+;B[rq]
+;W[rr]
+;B[rp]
+;W[sr]
+;B[ns]
+;W[os]
+;B[qs]
+;W[rs]
+;B[qr]))

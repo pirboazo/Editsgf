@@ -1,0 +1,88 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ab][cb][qb][cc][qc][rc][bd][rd][bp][rp][sp][cq][qq][br][cr][qr]AB[dc][ec][oc][pc][cd][qd][be][ce][qe][re][bo][co][qo][ro][cp][qp][dq][eq][oq][pq]LB[gg:2][mg:1][gm:3][mm:4]TR[ab][rc][sp][br]C[Blanc n'a pas jouer la gueule du tigre (kaketsugi).
+
+A noir de punir si possible.]
+(;B[pb]C[Bloquer simplement suffit...]
+;W[sb]
+;B[ra]
+;W[qa]
+;B[sd])
+(;B[sd]C[le hane fonctionne aussi]
+;W[pb]
+;B[ob]
+;W[pa]
+;B[ra])
+(;B[ad]C[Réduire d'abord]
+;W[bc]
+;B[ba])
+(;B[bc]C[Erreur typique]
+;W[ad]
+;B[ae]
+;W[ac]
+;B[db]
+;W[ca])
+(;B[ba]C[Ceci à l'ait d'un point vital, mais...]
+;W[ad]
+;B[db]
+;W[ca]C[blanc vit])
+(;B[ap]C[Jouer un ko est le mieux que peut faire noir ici.]
+;W[aq]
+;B[bq])
+(;B[aq]
+;W[ap]
+;B[ar]
+(;W[as]C[Horikomi]
+;B[bs]
+;W[cs]
+(;B[ao]
+;W[bq])
+(;B[as]C[Noir tente d'obtenir un 4 pliés dans le coin, mais blanc a trop de liberté extérieure.]
+;W[bq]
+;B[ar]
+;W[as]C[horikomi]
+;B[bs]
+;W[aq]))
+(;W[dr]C[Si blanc essaie de s'étendre avant l'horikomi...]
+;B[er]
+;W[ds]
+;B[bs]
+;W[bq]
+;B[ao]C[Noir ne connecte pas en A et comme blanc a perdu une précieuse liberté extérieure, il meurt.]
+;W[as]
+;B[ar]))
+(;B[sr]
+;W[rr]
+(;B[so]
+;W[rq]
+;B[pr])
+(;B[sq]C[Ceci ne fonctionne pas]
+;W[ss]
+;B[rs]
+;W[qs]
+;B[so]
+;W[rq]))
+(;B[rr]C[Erreur]
+(;W[sr]
+;B[rs]
+;W[rq]
+;B[pr]
+;W[qs]C[blanc vit])
+(;W[rs]C[blanc répond à l'erreur de noir par une erreur...]
+;B[sr]
+;W[pr]
+;B[or]
+;W[ps]
+;B[rq]C[... et meurt]))
+(;B[so]C[Pauvre coup qui force blanc à prendre le point vital et de vivre]
+;W[sr]
+;B[rs]
+;W[rr]
+;B[pr]
+;W[qs])
+(;B[rs]C[Si noir prend l'autre point vital...]
+;W[sr]
+;B[rr]
+;W[rq]
+;B[pr]
+;W[qs]C[... blanc vit.]))

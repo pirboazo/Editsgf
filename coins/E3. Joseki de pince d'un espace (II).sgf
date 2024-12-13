@@ -1,0 +1,41 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Blanc]PB[Noir]AW[ba][oa][ab][bb][eb][fb][nb][ob][rb][sb][cc][dc][fc][nc][pc][qc][cq][dq][fq][nq][pq][qq][ar][br][er][fr][nr][rr][sr]AB[da][na][pa][cb][gb][mb][qb][bc][gc][hc][lc][mc][rc][bd][cd][dd][ed][od][pd][qd][rd][ge][me][go][mo][bp][cp][dp][ep][op][pp][qp][rp][bq][gq][mq][rq][gr][hr][lr][mr][ds]LB[gg:2][mg:1][gm:3][mm:4]TR[fd][nd][fp][np]C[Nous retrouvons notre forme à une importante différence près, blanc a une liberté extérieure (triangle).
+
+Noir joue.]
+(;B[oc]
+;W[ma]
+;B[nd]C[blanc manque de liberté, damezumari, il ne peut connecter.])
+(;B[nd]
+;W[ma]
+;B[oc]C[idem])
+(;B[ra]
+;W[pb]
+;B[qa]
+;W[sa]
+;B[qa]C[Ceci fonctionne aussi mais laisse plus de libertés à blanc.])
+(;B[fa]
+;W[ea]
+;B[ec]C[encore le damezumari.])
+(;B[ec]C[Si noir commence par l'atari...]
+;W[db]
+;B[fa]
+;W[ca]C[... blanc vit.])
+(;B[cr]
+(;W[dr]
+;B[bs]
+;W[cs]C[Ko pour la vie.])
+(;W[bs]C[si blanc essaie de vivre inconditionnellement...]
+;B[fs]
+;W[es]
+;B[eq]C[... il meurt.]))
+(;B[bs]C[Ceci est insuffisant...]
+;W[cr]
+;B[cs]
+;W[fs]C[... blanc vit en seki.])
+(;B[ps]
+;W[or]
+;B[qr]
+;W[pr]
+;B[rs]
+;W[qs]C[Grace à sa liberté extérieure, blanc peut vivre en ko.]))
